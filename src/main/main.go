@@ -6,7 +6,7 @@ import (
 )
 
 func main() {
-	fmt.Println("cs12221")
+	fmt.Println("cs122221")
 	cc := cs.Acc(1, 2, 3)
 	fmt.Println(cc)
 }
